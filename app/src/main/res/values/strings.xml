@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jsoup ile webden veri alma</string>
+    <string name="btnText">Veri Getir</string>
+</resources>
